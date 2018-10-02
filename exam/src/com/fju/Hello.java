@@ -10,6 +10,7 @@ public class Hello {
 		int weight = 40;
 		int age = 20;
 
+
 	}
 
 }
